@@ -8,7 +8,7 @@ public class factor {
             }
         }
     }
-    public static void main(){
+public static void main(){
         Scanner sc =new Scanner(System.in);
         System.out.println("enter the number");
         int n=sc.nextInt();
