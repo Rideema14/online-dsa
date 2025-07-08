@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "vector",
+            "request": "launch",
+            "mainClass": "vector",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "link",
+            "request": "launch",
+            "mainClass": "link",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "list",
+            "request": "launch",
+            "mainClass": "list",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "digit",
+            "request": "launch",
+            "mainClass": "digit",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "even",
+            "request": "launch",
+            "mainClass": "even",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "factor",
+            "request": "launch",
+            "mainClass": "factor",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "name",
+            "request": "launch",
+            "mainClass": "name",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "palidrome",
+            "request": "launch",
+            "mainClass": "palidrome",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "perfect",
+            "request": "launch",
+            "mainClass": "perfect",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "product",
+            "request": "launch",
+            "mainClass": "product",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "reverse_no",
+            "request": "launch",
+            "mainClass": "reverse_no",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "online dsa_9f841ad2"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "online dsa_9f841ad2"
+        }
+    ]
+}
