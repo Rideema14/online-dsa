@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "itrator",
+            "request": "launch",
+            "mainClass": "itrator",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "enumiration",
+            "request": "launch",
+            "mainClass": "enumiration",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "stack",
+            "request": "launch",
+            "mainClass": "stack",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
             "name": "vector",
             "request": "launch",
             "mainClass": "vector",
