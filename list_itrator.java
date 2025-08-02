@@ -15,9 +15,9 @@ public class list_itrator {
                 itr.remove();
             
             }
-            else(s.equals("d")){
-    
-            }
+            // else(s.equals("d")){
+         
+            // }
          }
     }
 }

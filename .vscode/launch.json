@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "weakhashmap",
+            "request": "launch",
+            "mainClass": "weakhashmap",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "indentity",
+            "request": "launch",
+            "mainClass": "indentity",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
             "name": "itrator",
             "request": "launch",
             "mainClass": "itrator",
