@@ -8,7 +8,7 @@ class treeset{
     public static void main(String[] args) {
         TreeSet t=new TreeSet(new MyComparator1());
         t.add(10);
-     t.add(11);
+          t.add(11);
          t.add(12);
           t.add(13);
           t.add(5);

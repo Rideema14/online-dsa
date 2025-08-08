@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "intersection",
+            "request": "launch",
+            "mainClass": "intersection",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "inser_element",
+            "request": "launch",
+            "mainClass": "inser_element",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "negative",
+            "request": "launch",
+            "mainClass": "negative",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "merge_array",
+            "request": "launch",
+            "mainClass": "merge_array",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
             "name": "weakhashmap",
             "request": "launch",
             "mainClass": "weakhashmap",
