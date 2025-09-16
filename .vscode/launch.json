@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findsum",
+            "request": "launch",
+            "mainClass": "findsum",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "overflow",
+            "request": "launch",
+            "mainClass": "overflow",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
             "name": "intersection",
             "request": "launch",
             "mainClass": "intersection",
