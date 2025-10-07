@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "even",
+            "request": "launch",
+            "mainClass": "even",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "any_position",
+            "request": "launch",
+            "mainClass": "any_position",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "word",
+            "request": "launch",
+            "mainClass": "word",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "any_position",
+            "request": "launch",
+            "mainClass": "linkedlist.any_position",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
+            "name": "insert",
+            "request": "launch",
+            "mainClass": "linkedlist.insert",
+            "projectName": "online dsa_570b699e"
+        },
+        {
+            "type": "java",
             "name": "findsum",
             "request": "launch",
             "mainClass": "findsum",
